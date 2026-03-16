@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
