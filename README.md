@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Topological Sort
 |  |
 | ------- |
@@ -54,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
