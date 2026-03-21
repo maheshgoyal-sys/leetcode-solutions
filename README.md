@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
