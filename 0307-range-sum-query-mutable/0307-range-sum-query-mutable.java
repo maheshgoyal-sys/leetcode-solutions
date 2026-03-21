@@ -1,38 +1,37 @@
 class NumArray {
-    int bit[];
-    int nums[];
-    int n;
+    static int bit[];
+    static int nums[];
+    static int n;
     public NumArray(int[] nums) {
+        this.n=nums.length;
         this.nums=nums;
-        this.n = nums.length;
         bit=new int[n+1];
         for(int i=0;i<n;i++){
-            add(i,nums[i]); 
+            add(i,nums[i]);
         }
     }
-    private void add(int i, int val) {
+    public static void add(int i,int val){
         i++;
-        while (i <= n) {
-            bit[i] += val;
-            i += (i & -i);
+        for( ;i<=n;i+=i&-i){
+            bit[i]+=val;
         }
     }
     
-    public void update(int i, int val) {
-        int diff = val - nums[i];
-        nums[i] = val;
-        i++;
-        for(;i<=n;i+=(i&-i)){
-            bit[i]+=diff;
+    public void update(int index, int val) {
+        int diff = val - nums[index];
+        nums[index] = val;
+        index++;
+        for( ;index<=n;index+=index&-index){
+            bit[index]+=diff;
         }
     }
     
     public int sumRange(int left, int right) {
         return sum(right) - sum(left-1);
     }
-    public int sum(int i){
-        int ans = 0;
+    public static int sum(int i){
         i++;
+        int ans =0;
         for( ;i>0;i-=(i&-i)){
             ans+=bit[i];
         }
