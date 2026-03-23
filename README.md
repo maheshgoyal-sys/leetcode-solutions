@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -123,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Dynamic Programming
 |  |
