@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0997-find-the-town-judge](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Graph Theory
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0127-word-ladder) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |
