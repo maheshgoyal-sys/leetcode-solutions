@@ -1,22 +1,18 @@
 class Solution {
-    public static int helper(int idx,int nums[],int n,int sum,int dp[]){
-        if(idx==n){
-            return 0;
-        }
-
-        if(idx>n)   return 0;
-        if(dp[idx]!=-1) return dp[idx];
-        int take = nums[idx] + helper(idx+2,nums,n,sum,dp);
-        int skip = helper(idx+1,nums,n,sum,dp);
-        return dp[idx]=Math.max(take,skip);
-       
-
-    }
     public int rob(int[] nums) {
-        int dp[] = new int[nums.length+1];
-        Arrays.fill(dp,-1);
-       helper(0,nums,nums.length,0,dp);
-        return dp[0];
-
+        int n = nums.length;
+        if(n==1){
+            return nums[0];
+        }
+        if(n==2){
+            return Math.max(nums[0],nums[1]);
+        }
+        int dp[] = new int[n];
+        dp[0] = nums[0];
+        dp[1] = Math.max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            dp[i] = Math.max(nums[i]+dp[i-2],dp[i-1]);
+        }
+        return dp[n-1];
     }
 }
