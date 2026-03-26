@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2906-construct-product-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0136-single-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
@@ -269,6 +273,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3546-equal-sum-grid-partition-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
