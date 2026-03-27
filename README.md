@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0134-gas-station) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
