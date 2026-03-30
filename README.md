@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -316,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
