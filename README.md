@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
