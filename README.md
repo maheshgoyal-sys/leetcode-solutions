@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
