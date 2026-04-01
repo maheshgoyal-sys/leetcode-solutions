@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0263-ugly-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
