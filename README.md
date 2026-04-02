@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3280-convert-date-to-binary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3280-convert-date-to-binary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 ## Memoization
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
