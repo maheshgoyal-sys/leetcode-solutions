@@ -1,11 +1,11 @@
 class Solution {
     public int minLengthAfterRemovals(String s) {
-        int ca=0;
-        int cb=0;
+        Map<Character,Integer> map = new HashMap<>();
         for(char ch : s.toCharArray()){
-            if(ch=='a') ca++;
-            else cb++;
+            map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        return Math.abs(ca-cb);
+        int ca = map.getOrDefault('a',0);
+        int cb = map.getOrDefault('b',0);
+return Math.abs(ca-cb);
     }
 }
