@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1029-two-city-scheduling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
