@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 | [3546-equal-sum-grid-partition-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 ## Sorting
 |  |
 | ------- |
@@ -424,11 +426,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 ## Game Theory
 |  |
 | ------- |
