@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1029-two-city-scheduling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1029-two-city-scheduling) |
