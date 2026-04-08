@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2906-construct-product-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3668-restore-finishing-order](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
