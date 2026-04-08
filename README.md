@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1162-as-far-from-land-as-possible](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1184-distance-between-bus-stops](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1395-count-number-of-teams](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1029-two-city-scheduling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
