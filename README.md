@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Enumeration
 |  |
 | ------- |
