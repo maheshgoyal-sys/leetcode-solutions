@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3668-restore-finishing-order](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3668-restore-finishing-order](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Graph Theory
