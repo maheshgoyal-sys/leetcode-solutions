@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2079-watering-plants](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
