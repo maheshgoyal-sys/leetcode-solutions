@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0136-single-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0875-koko-eating-bananas](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
