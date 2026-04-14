@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3011-find-if-array-can-be-sorted](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2405-optimal-partition-of-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3011-find-if-array-can-be-sorted](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
 |  |
 | ------- |
