@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0477-total-hamming-distance](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0784-letter-case-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0477-total-hamming-distance](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
