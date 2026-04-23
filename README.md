@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2615-sum-of-distances](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2405-optimal-partition-of-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2615-sum-of-distances](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2906-construct-product-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
