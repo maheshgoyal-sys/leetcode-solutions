@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0942-di-string-match) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Brainteaser
 |  |
