@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3660-jump-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3660-jump-game-ix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
