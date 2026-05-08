@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3488-closest-equal-element-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3668-restore-finishing-order](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Topological Sort
 |  |
 | ------- |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3115-maximum-prime-difference](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Stack
 |  |
 | ------- |
