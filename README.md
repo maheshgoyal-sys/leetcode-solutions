@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
