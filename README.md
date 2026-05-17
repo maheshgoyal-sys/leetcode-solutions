@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3280-convert-date-to-binary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3492-maximum-containers-on-a-ship](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
