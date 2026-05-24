@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1306-jump-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1395-count-number-of-teams](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1029-two-city-scheduling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1094-car-pooling) |
+| [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1552-magnetic-force-between-two-balls](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1162-as-far-from-land-as-possible](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1395-count-number-of-teams](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
