@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2607-make-k-subarray-sums-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2615-sum-of-distances](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2615-sum-of-distances) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2405-optimal-partition-of-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2607-make-k-subarray-sums-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2607-make-k-subarray-sums-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2784-check-if-array-is-good](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1871-jump-game-vii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2615-sum-of-distances](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2906-construct-product-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2906-construct-product-matrix) |
