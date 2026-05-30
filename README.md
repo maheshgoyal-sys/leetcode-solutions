@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## String Matching
 |  |
 | ------- |
