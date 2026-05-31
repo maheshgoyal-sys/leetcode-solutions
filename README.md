@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2032-two-out-of-three](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2032-two-out-of-three](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2405-optimal-partition-of-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
