@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2540-minimum-common-value](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Merge Sort
 |  |
 | ------- |
