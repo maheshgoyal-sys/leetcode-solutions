@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3660-jump-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3546-equal-sum-grid-partition-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Combinatorics
 |  |
