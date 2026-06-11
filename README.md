@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
