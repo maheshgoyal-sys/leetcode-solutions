@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3838-weighted-word-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3838-weighted-word-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
 | ------- |
