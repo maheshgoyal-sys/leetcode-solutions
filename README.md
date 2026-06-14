@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
