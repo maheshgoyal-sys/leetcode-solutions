@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2607-make-k-subarray-sums-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3115-maximum-prime-difference](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2761-prime-pairs-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2607-make-k-subarray-sums-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3115-maximum-prime-difference](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Stack
