@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1122-relative-sort-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1630-arithmetic-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1079-letter-tile-possibilities](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1079-letter-tile-possibilities](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
