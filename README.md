@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0771-jewels-and-stones) |
