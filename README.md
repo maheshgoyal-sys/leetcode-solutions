@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3660-jump-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Heap (Priority Queue)
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3546-equal-sum-grid-partition-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
