@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0819-most-common-word](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0942-di-string-match](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0942-di-string-match) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0735-asteroid-collision](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
