@@ -1,26 +1,22 @@
 class Solution {
-    public static int helper(int t,int nums2[]){
-        for(int i=0;i<nums2.length;i++){
-            if(nums2[i]==t) return i;
-            }
-            return -1;
-    }
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int ans[] = new int[n];
-        for(int i=0;i<n;i++){
-            int t = nums1[i];
-            boolean flag=false;
-            int idx = helper(t,nums2);
-            for(int j=idx+1;j<nums2.length;j++){
-                if(nums2[j]>t){
-                    flag=true;
-                    ans[i]=nums2[j];
-                    break;
-                }  
+        Stack<Integer> st = new Stack<>();
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i=nums2.length-1;i>=0;i--){
+            while(!st.isEmpty() && st.peek()<nums2[i]){
+                st.pop();
             }
-            if(!flag)
-            ans[i]=-1;
+            if(st.isEmpty()){
+                map.put(nums2[i],-1);
+            }
+            else{
+                map.put(nums2[i],st.peek());
+            }
+            st.push(nums2[i]);
+        }
+        int ans[] = new int[nums1.length];
+        for(int i=0;i<nums1.length;i++){
+            ans[i] = map.get(nums1[i]);
         }
         return ans;
     }
