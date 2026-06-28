@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1861-rotating-the-box) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-maximum-score-from-removing-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1833-maximum-ice-cream-bars](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
