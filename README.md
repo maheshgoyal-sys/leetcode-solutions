@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
