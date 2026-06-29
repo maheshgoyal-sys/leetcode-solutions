@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3804-number-of-centered-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3838-weighted-word-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3804-number-of-centered-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 ## Graph Theory
 |  |
 | ------- |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3804-number-of-centered-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Combinatorics
 |  |
