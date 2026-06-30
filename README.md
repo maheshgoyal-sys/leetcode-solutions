@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1630-arithmetic-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
