@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2582-pass-the-pillow](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [2607-make-k-subarray-sums-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2582-pass-the-pillow](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [3028-ant-on-the-boundary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3612-process-string-with-special-operations-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
