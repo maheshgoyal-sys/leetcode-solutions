@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2592-maximize-greatness-of-an-array) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1753-maximum-score-from-removing-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [2336-smallest-number-in-infinite-set](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2582-pass-the-pillow](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [3028-ant-on-the-boundary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
