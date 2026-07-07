@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3838-weighted-word-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
 |  |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Enumeration
 |  |
 | ------- |
