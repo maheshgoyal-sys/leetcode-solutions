@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 | [3527-find-the-most-common-response](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3527-find-the-most-common-response](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3668-restore-finishing-order](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Merge Sort
