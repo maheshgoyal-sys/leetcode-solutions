@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 | [3527-find-the-most-common-response](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3660-jump-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3660-jump-game-ix) |
@@ -667,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -692,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Merge Sort
@@ -720,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3011-find-if-array-can-be-sorted](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
