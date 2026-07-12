@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1395-count-number-of-teams](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1395-count-number-of-teams) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1630-arithmetic-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1552-magnetic-force-between-two-balls](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
