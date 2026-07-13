@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2443-sum-of-number-and-its-reverse) |
