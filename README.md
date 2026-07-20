@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0061-rotate-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search Tree
 |  |
 | ------- |
