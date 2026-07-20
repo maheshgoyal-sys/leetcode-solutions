@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2326-spiral-matrix-iv](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2326-spiral-matrix-iv](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
