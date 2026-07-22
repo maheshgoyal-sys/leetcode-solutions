@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3838-weighted-word-mapping](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3843-first-element-with-unique-frequency](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
+| [3843-first-element-with-unique-frequency](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 ## Graph Theory
 |  |
 | ------- |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3527-find-the-most-common-response](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3843-first-element-with-unique-frequency](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
 | ------- |
