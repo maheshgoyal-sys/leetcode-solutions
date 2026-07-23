@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 | [3527-find-the-most-common-response](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3011-find-if-array-can-be-sorted](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3492-maximum-containers-on-a-ship](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
