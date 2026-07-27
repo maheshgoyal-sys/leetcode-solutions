@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0784-letter-case-permutation) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1871-jump-game-vii) |
