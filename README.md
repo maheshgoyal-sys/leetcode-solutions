@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
