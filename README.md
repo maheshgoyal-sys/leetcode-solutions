@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0819-most-common-word](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
