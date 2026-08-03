@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1395-count-number-of-teams](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1395-count-number-of-teams) |
+| [1406-stone-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1395-count-number-of-teams](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1395-count-number-of-teams) |
+| [1406-stone-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1753-maximum-score-from-removing-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1753-maximum-score-from-removing-stones) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
