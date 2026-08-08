@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3280-convert-date-to-binary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
