@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0788-rotated-digits) |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1139,4 +1142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
