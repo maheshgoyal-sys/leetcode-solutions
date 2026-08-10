@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1395-count-number-of-teams](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1395-count-number-of-teams) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1630-arithmetic-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1861-rotating-the-box) |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0875-koko-eating-bananas](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1552-magnetic-force-between-two-balls](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
