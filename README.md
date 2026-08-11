@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0055-jump-game) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0268-missing-number) |
