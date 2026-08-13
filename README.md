@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2326-spiral-matrix-iv](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2405-optimal-partition-of-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1395-count-number-of-teams](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1395-count-number-of-teams) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Two Pointers
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bit Manipulation
 |  |
