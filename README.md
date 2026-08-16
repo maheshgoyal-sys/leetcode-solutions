@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -1077,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
@@ -1186,8 +1191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
