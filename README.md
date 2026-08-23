@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1833-maximum-ice-cream-bars](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1927-sum-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
