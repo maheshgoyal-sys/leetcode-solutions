@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3612-process-string-with-special-operations-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
