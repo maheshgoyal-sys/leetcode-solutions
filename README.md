@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -840,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1552-magnetic-force-between-two-balls](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
