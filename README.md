@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
