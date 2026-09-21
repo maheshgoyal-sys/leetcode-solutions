@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
+| [3524-find-x-value-of-array-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3527-find-the-most-common-response](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
