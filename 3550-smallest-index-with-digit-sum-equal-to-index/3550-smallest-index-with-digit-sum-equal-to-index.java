@@ -1,17 +1,18 @@
 class Solution {
     public static int helper(int num){
-        int ans=0;
+        int s=0;
         while(num>0){
             int rem = num%10;
-            ans +=rem;
-            num/=10;
+            s+=rem;
+            num=num/10;
         }
-        return ans;
+        return s;
     }
     public int smallestIndex(int[] nums) {
         for(int i=0;i<nums.length;i++){
-            if(i == helper(nums[i]))
-            return i;
+            if(helper(nums[i])==i){
+                return i;
+            }
         }
         return -1;
     }
