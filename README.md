@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -1325,4 +1328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
