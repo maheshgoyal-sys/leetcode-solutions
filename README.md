@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -1340,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
