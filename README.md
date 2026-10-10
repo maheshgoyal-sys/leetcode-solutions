@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0349-intersection-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0349-intersection-of-two-arrays](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
