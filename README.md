@@ -1325,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Complete Knapsack
 |  |
@@ -1349,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1051-height-checker) |
 ## Bracket Sequences
 |  |
