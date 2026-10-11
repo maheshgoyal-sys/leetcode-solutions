@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2761-prime-pairs-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1135,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2761-prime-pairs-with-target-sum](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
