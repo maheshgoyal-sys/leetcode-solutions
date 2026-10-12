@@ -1284,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1311,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
