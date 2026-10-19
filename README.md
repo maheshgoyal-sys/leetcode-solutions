@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2079-watering-plants) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/maheshgoyal-sys/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
