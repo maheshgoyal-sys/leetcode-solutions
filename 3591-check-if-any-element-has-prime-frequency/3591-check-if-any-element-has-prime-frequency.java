@@ -1,10 +1,10 @@
 class Solution {
     public static boolean helper(int num){
-        int c=0;
-        for(int i=1;i<=num;i++){
-            if(num%i==0) c++;
+        if(num<2) return false;
+        for(int i=2;i*i<=num;i++){
+            if(num%i==0) return false;
         }
-        return c==2;
+        return true;
     }
     public boolean checkPrimeFrequency(int[] nums) {
         Map<Integer,Integer> map = new HashMap<>();
