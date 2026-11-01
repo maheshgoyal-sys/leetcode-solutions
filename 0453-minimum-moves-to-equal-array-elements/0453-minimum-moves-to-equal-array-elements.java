@@ -5,7 +5,7 @@ class Solution {
         Arrays.sort(nums);
         int ans=0;
         while(r>l){
-            ans+=nums[r]-nums[l];
+            ans+=Math.abs(nums[r]-nums[l]);
             r--;
         }
         return ans;
